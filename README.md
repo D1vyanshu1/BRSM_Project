@@ -3,7 +3,7 @@
 
 ## 📋 Overview
 
-This repository contains code, data, and analysis scripts for investigating how Hindi speakers navigate their mental lexicons during verbal fluency production. Using a combined **Verbal Fluency Task (VFT)** and **Spatial Arrangement Method (SpAM)** paradigm with 27–30 native Hindi speakers across four semantic domains (animals, body parts, foods, colours), we test six core hypotheses spanning semantic clustering, phonological facilitation, spatial retrieval cost, temporal decay of similarity, domain modulation, and prototype proximity.
+This repository contains code, data, and analysis scripts for investigating how Hindi speakers navigate their mental lexicons during verbal fluency production. Using a combined **Verbal Fluency Task (VFT)** and **Spatial Arrangement Method (SpAM)** paradigm with 30 native Hindi speakers across four semantic domains (animals, body parts, foods, colours), we test six core hypotheses spanning semantic clustering, phonological facilitation, spatial retrieval cost, temporal decay of similarity, domain modulation, and prototype proximity.
 
 **Publication Status**: This is the working research codebase accompanying a cognitive science report on Hindi semantic memory structure.
 
@@ -346,7 +346,7 @@ mannwhitneyu(taxonomic_wc_rho, thematic_wc_rho)  # p = 0.046
 ## 🔬 Methodology Summary
 
 ### Participants
-- **N**: 27–30 native Hindi speakers (after exclusion of English-only respondents)
+- **N**: 30 native Hindi speakers (after exclusion of English-only respondents)
 - **Inclusion Criteria**: Able to read and converse in Hindi
 - **Exclusion Criteria**: No valid Hindi responses during VFT
 
@@ -496,7 +496,7 @@ This work is grounded in three complementary theoretical frameworks:
 
 ## 🔍 Known Limitations
 
-1. **Sample Size**: 27–30 participants limits statistical power for participant-level analyses
+1. **Sample Size**: 30 participants limits statistical power for participant-level analyses
 2. **Embedding Model**: LaBSE (multilingual) used rather than Hindi-specific (IndicBERT inaccessible)
 3. **Language-General Bias**: Multilingual embeddings may not capture Hindi-specific semantic structure
 4. **Cluster Validation**: Currently derived programmatically; explicit semantic cluster definitions in development
