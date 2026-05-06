@@ -1,0 +1,36 @@
+participant_id,first_language,language_count,languages_list,age,gender,education,state,dominant_hand,alert_time
+10255,Telugu,3,Telugu||Hindi||English,27,Male,20,Andhra Pradesh,Right,Morning
+95712,Hindi,2,Hindi||English,23,Male,17,Chhattisgarh,Right,No difference
+53105,Gujarati,3,Gujarati||Hindi||English,21,Male,16,Gujarat,Right,Morning
+53307,Punjabi,3,English||Hindi||Punjabi,21,Male,16,Punjab,Left,Evening
+92821,Hindi,2,English||Hindi,25,Male,18,Uttarakhand,Right,Morning
+73233,Gujarati,3,Gujarati||Hindi||English,22,Male,15,Gujarat,Left,Evening
+83682,Hindi,2,Hindi||English,24,Male,17,Maharashtra,Right,Afternoon
+94502,Hindi,5,English||Hindi||Magahi||Maithili||Tamil,27,Male,19,Bihar,Right,Evening
+81851,Hindi,2,English||Hindi,24,Male,16,Chhattisgarh,Right,Evening
+83169,English,2,English||Hindi,26,Male,17,Madhya Pradesh,Right,Morning
+76112,English,4,English||Hindi||Marathi||Tamil,25,Male,18,Maharashtra,Right,Evening
+35389,hindi,2,Hindi||english,23,Male,16,Madhya Pradesh,Right,Evening
+68981,English,2,English||Hindi,22,Female,17,Rajasthan,Right,Evening
+61476,Hindi,2,hindi||english,21,Male,14,Delhi,Right,No difference
+72898,hindi,9,english||hindi||sanskrit||french||spanish||korean||german||japanese||russian,22,Male,16,Madhya Pradesh,Left,No difference
+62335,GUjarati,3,Hindi||English||Gujarati,22,Male,16,Gujarat,Right,Morning
+71977,Hindi,3,Hindi||English||Marathi,23,Male,16,Maharashtra,Right,Morning
+23853,Hindi ,3,Hindi||Bengali||English,21,Female,14,Jharkhand,Right,Morning
+86781,Gujarati,3,Gujarati||English||Hindi,21,Male,15,Gujarat,Right,Evening
+5157,Telugu,3,Telugu||English||Hindi,19,Female,14,Telangana,Right,Morning
+10147,Hindi,3,English||Malayalam||Hindi,21,Male,15,Kerala,Right,Evening
+78839,Gujarati,3,Gujarati||Hindi||English,21,Male,15,Gujarat,Right,Morning
+74323,Gujarti,3,Gujarti||Hindi||English,23,Male,17,Gujarat,Right,Morning
+31417,Gujarati,3,Gujarati||Hindi||English,21,Male,15,Gujarat,Right,Evening
+81788,hindi,2,hindi||english,23,Male,16,Bihar,Right,Morning
+34350,hindi,2,hindi||english,23,Male,17,Madhya Pradesh,Right,Evening
+3342,Hindi,2,Hindi||English,24,Male,16,Madhya Pradesh,Right,Morning
+25803,Hindi,2,Hindi||English,25,Male,18,Uttarakhand,Right,Morning
+43909,Hindi,2,hindi||english,23,Male,16,Maharashtra,Right,Morning
+13549,English,3,English||Hindi||Gujarati,24,Male,16,Bihar,Right,Morning
+20970,Hindi,2,Hindi||English,27,Male,18,Uttar Pradesh,Left,Evening
+49294,Hindi,4,Hini||Hindi||English||Bhojpuri,25,Male,18,Bihar,Right,Afternoon
+77358,English,3,English||Hindi||Bengali,22,Male,16,Madhya Pradesh,Right,Morning
+13498,Hindi,3,Hindi||Marathi||English,24,Male,16,Rajasthan,Right,No difference
+42616,Hindi,3,Hindi||english||maghi,25,Male,20,Bihar,Right,Morning
